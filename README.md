@@ -1,5 +1,9 @@
 Creating a Custom Classes in Python
+
+
 =>The Challenge is creating Rectangle Class with the Instance
+
+
 
 The Requirements are:
 
@@ -10,5 +14,7 @@ After complition of project we go with URL:"http://127.0.0.1:8000/rectangle/{giv
 
 =>For Example: http://127.0.0.1:8000/rectangle/27/100/
 We get the output like this: =>{'length': 27}{'width': 100}
+
+
 
 Thankyou!!!!!
